@@ -48,5 +48,10 @@
   ],
   "scripts": {
     "prepublish": [ "npm install", "bower install", "gulp clean", "gulp min" ]
+  },
+  "projects": [ "src", "test" ],
+  "sdk": {
+    "version": "1.0.0-rc1-final",
+    "runtime": "coreclr"
   }
 }
