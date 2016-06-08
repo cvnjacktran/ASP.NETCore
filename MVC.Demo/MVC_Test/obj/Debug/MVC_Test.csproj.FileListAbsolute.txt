@@ -202,6 +202,6 @@ E:\Projects\Git\Repos\ASP.NETCore\MVC.Demo\MVC_Test\bin\Microsoft.Owin.Security.
 E:\Projects\Git\Repos\ASP.NETCore\MVC.Demo\MVC_Test\bin\Microsoft.Owin.Security.Google.xml
 E:\Projects\Git\Repos\ASP.NETCore\MVC.Demo\MVC_Test\bin\Microsoft.Owin.Security.Twitter.xml
 E:\Projects\Git\Repos\ASP.NETCore\MVC.Demo\MVC_Test\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projects\Git\Repos\ASP.NETCore\MVC.Demo\MVC_Test\obj\Debug\MVC_Test.csprojResolveAssemblyReference.cache
 E:\Projects\Git\Repos\ASP.NETCore\MVC.Demo\MVC_Test\obj\Debug\MVC_Test.dll
 E:\Projects\Git\Repos\ASP.NETCore\MVC.Demo\MVC_Test\obj\Debug\MVC_Test.pdb
-E:\Projects\Git\Repos\ASP.NETCore\MVC.Demo\MVC_Test\obj\Debug\MVC_Test.csprojResolveAssemblyReference.cache
