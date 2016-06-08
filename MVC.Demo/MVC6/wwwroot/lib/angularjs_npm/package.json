@@ -1,0 +1,16 @@
+{
+  "name": "angular-mock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "readme": "ERROR: No README data found!",
+  "_id": "angular-mock@1.0.0",
+  "_shasum": "67431849bf0add225b1d49e0a771659a4b360ba5",
+  "_from": "angular-mock@1.0.0",
+  "_resolved": "https://registry.npmjs.org/angular-mock/-/angular-mock-1.0.0.tgz"
+}
